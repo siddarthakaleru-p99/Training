@@ -1,0 +1,20 @@
+INFO:__main__:Order placed for: Laptop
+INFO:__main__:Order Details: AmazonOrder(Item: Laptop)
+INFO:__main__:Status: Preparing package for dispatch.
+INFO:__main__:Shipping: Laptop is en route to Hyderabad
+INFO:__main__:Status: Package handed over to carrier.
+INFO:__main__:Order data for Laptop archived and session ended.
+
+INFO:__main__:Order placed for: PC
+INFO:__main__:Order Details: AmazonOrder(Item: PC)
+INFO:__main__:Status: Preparing package for dispatch.
+INFO:__main__:Shipping: PC is en route to Mumbai
+INFO:__main__:Status: Package handed over to carrier.
+INFO:__main__:Order data for PC archived and session ended.
+
+INFO:__main__:Order placed for: Mobile
+INFO:__main__:Order Details: AmazonOrder(Item: Mobile)
+INFO:__main__:Status: Preparing package for dispatch.
+INFO:__main__:Shipping: Mobile is en route to Hyd
+INFO:__main__:Status: Package handed over to carrier.
+INFO:__main__:Order data for Mobile archived and session ended.
